@@ -1,0 +1,24 @@
+.h{
+    background-color: rgb(255, 238, 0);
+}
+.r{
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(227, 212, 193);
+    background:linear-gradient(to right,rgb(50, 40, 40),rgb(142, 127, 127),rgb(231, 226, 226));
+    padding: 100px;
+
+
+}
+.c{
+    background-color:rgb(235, 237, 248);
+    justify-content: space-around;
+    padding: 50px;
+    margin: 2%;
+    border: 2px solid rgb(208, 202, 200) ;
+    border-radius: 50px;
+    background:linear-gradient(to top,rgb(200, 182, 182),rgb(143, 68, 68));
+
+
+
+}
